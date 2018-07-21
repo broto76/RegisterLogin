@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RegisterLogin</string>
+    <string name="FCM_PREF">com.example.broto.registerlogin.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.broto.registerlogin.fcm_token</string>
+    <string name="USERNAME">com.example.broto.registerlogin.username</string>
+    <string name="PASSWORD">com.example.broto.registerlogin.password</string>
+    <string name="FCM_USER_CRED">com.example.broto.registerlogin.fcm_user_cred</string>
+    <string name="FCM_MESSAGE">com.example.broto.registerlogin.fcm_message</string>
+    <string name="TEMPORARY_SENDER">com.example.broto.registerlogin.fcm_temporary_sender</string>
+    <string name="RECEIVE_STATUS">com.example.broto.registerlogin.fcm_receive_status</string>
+    <string name="title_activity_chat">Chat</string>
+
+</resources>
